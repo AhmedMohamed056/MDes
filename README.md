@@ -1,1 +1,1 @@
-## Small project that explain Create a modern desgine with card view and create a menue options.
+## Small project that explains Creating a modern design with a card view and creating menu options.
